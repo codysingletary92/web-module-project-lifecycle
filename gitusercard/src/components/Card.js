@@ -7,7 +7,7 @@ const Card = props => {
                 <img src={avatar_url}></img>
                 <div>
                    <h1>{name}</h1>
-                <h2>{login}</h2> 
+                    <h2>{login}</h2> 
                 </div>
                 
             </div>
